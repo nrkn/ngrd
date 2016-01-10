@@ -1,6 +1,6 @@
 {
   "name": "ngrd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Grid object factory",
   "main": "index.js",
   "repository": {
